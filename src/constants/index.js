@@ -41,13 +41,13 @@ export const navigation = [
     id: "0",
     // title: "Features",
     // url: "#features",
-    title: "Home",
-    url: "#hero"
+    title: "Games",
+    url: "#features"
   },
   {
     id: "1",
-    title: "Games",
-    url: "#features",
+    title: "Features",
+    url: "#how-to-use",
   },
   {
     id: "2",
@@ -56,8 +56,8 @@ export const navigation = [
   },
   {
     id: "3",
-    title: "Footer",
-    url: "#footer",
+    title: "Roadmap",
+    url: "#roadmap",
   },
   {
     id: "4",
@@ -80,9 +80,9 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+  "Explore games like Kanche and Lagori",
+  "Learn rules and strategies with ease",
+  "Discover the history behind each game.",
 ];
 
 export const brainwaveServicesIcons = [
@@ -96,41 +96,41 @@ export const brainwaveServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
-    status: "done",
+    title: "Personalized Cultural Chatbot",
+    text: "Future updates will feature a smart chatbot to answer queries, explain games, and provide tailored cultural experiences, making traditions more interactive and accessible.",
+    date: "Nov 2024",
+    status: "progress",
     imageUrl: roadmap1,
     colorful: true,
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
+    title: "Chatbot Customization",
+    text: "BrahmaVerse will feature a customizable chatbot that can answer any cultural or gameplay-related questions. It will also support voice recognition, enabling seamless, conversational interactions for an immersive user experience.",
+    date: "Nov 2023",
     status: "progress",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
+    title: "Personalized Cultural Videos",
+    text: "BrahmaVerse will feature tailored videos that explore the history, gameplay, and significance of traditional games, offering a unique, immersive experience",
+    date: "Nov 2023",
     status: "done",
     imageUrl: roadmap3,
   },
   {
     id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
+    title: "Immersive AR/VR Experiences",
+    text: "Future updates will bring AR/VR integration to BrahmaVerse, allowing users to experience traditional games in an interactive, 3D environment. These technologies will enable lifelike gameplay, cultural storytelling, and virtual exploration of India’s rich heritage",
+    date: "Nov 2023",
     status: "progress",
     imageUrl: roadmap4,
   },
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Effortlessly connect with India’s cultural essence through our immersive platform.";
 
 export const collabContent = [
   {
@@ -141,10 +141,12 @@ export const collabContent = [
   {
     id: "1",
     title: "Smart Automation",
+    text : "AI-powered insights bring traditional games and stories to life",
   },
   {
     id: "2",
     title: "Top-notch Security",
+    text : "Preserving the authenticity of India’s heritage with cutting-edge safety measures.",
   },
 ];
 
