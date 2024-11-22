@@ -76,7 +76,7 @@ const Header = () => {
         >
           New account
         </a> */}
-        <Button className="hidden lg:flex" href="#login">
+        <Button className="hidden lg:flex" href="https://github.com/chiragferwani/BrahmaVerseApp">
           Download App Here
         </Button>
 

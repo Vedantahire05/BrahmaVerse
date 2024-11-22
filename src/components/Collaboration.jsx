@@ -27,7 +27,7 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button>Download App Now</Button>
+          <Button href="https://github.com/chiragferwani/BrahmaVerseApp">Download App Now</Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
